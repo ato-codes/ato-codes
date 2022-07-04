@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @በአምላክTadesse
 - 👀 I’m interested in development and tech building
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Front-End Web App Project's
 - 📫 How to reach me ...
 
 <!---
