@@ -1,4 +1,4 @@
-- 👋 Hi, I’m በአምላክTadesse (some know me as Ato CM). From ኢትዮጵያ Ethiopia i am working on practicing on full stack projects along with some programming languages such as python and dart
+- 👋 ሠላም, I’m በአምላክ Tadesse (some know me as Ato CM). From ኢትዮጵያ Ethiopia i am working on practicing on full stack projects along with some programming languages such as python and dart
 - 👀 I’m interested in web and app development and tech building
 - 💞️ I’m happy to collaborating on open-source or personal projects
 - 📫 You can contact me at [thecmboy930@gmail.com](thecmboy930@gmail.com)
