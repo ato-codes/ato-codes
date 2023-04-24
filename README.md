@@ -1,9 +1,9 @@
 # ሠላም
 
-<img src='beamlak_ico.svg' width='100' display='block'>
+<img src='atocodes.jpg' width='100' display='block'>
 
-- 👋 ሠላም, I’m በአምላክ Tadesse (some know me as Ato Codes or MHCDA). From ኢትዮጵያ Ethiopia Full Stack Web Developer along with some programming languages such as python and dart.
-- 👀 I’m interested in web and app development and tech building
+- 👋 ሠላም, I’m በአምላክ Tadesse (some know me as Ato Codes or MHCDA). From ኢትዮጵያ Ethiopia Full Stack Web Developer along with some programming languages.
+- 👀 I’m interested in Software Development ፣ Tech Stuffs እና Art.
 - 💞️ I’m happy to collaborating on open-source or personal projects
 - 📫 You can contact me at [thecmboy930@gmail.com](thecmboy930@gmail.com)
 - 👩‍💻👨‍💻 And You Are Very Wellcome to Join Our Programming Language Teaching Telegram Group [@bhk2ltt_mhcda](https://t.me/s/bhk2ltt_mhcda)
@@ -14,8 +14,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="36" height="36" alt="Dart" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="36" height="36" alt="Dart" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://images.saymedia-content.com/.image/t_share/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.png" width="36" height="36" alt="Dart" /></a>
 </p>
 
 
@@ -25,7 +26,8 @@
 <a href="https://www.instagram.com/ato.codes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://twitter.com/ato_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://t.me/bhk2ltt_mhcda" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
-<a href="https://beamlaktadesse01.github.io/my_cv_site/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/512/parse-from-clipboard.png" width="32" height="32" /></a>
+<a href="https://www.tiktok.com/@ato.codes?lang=en" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/images/61d98a8d482674000429053c.png" width="32" height="32" /></a>
+<a href="https://beamlaktadesse01.github.io/my_cv_site/" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/8/Website-Transparent-PNG.png" width="32" height="32" /></a>
 
 </p>
 
