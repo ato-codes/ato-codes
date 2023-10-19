@@ -1,7 +1,3 @@
-# ሠላም
-
-<img src='atocodes.jpg' width='100' display='block'>
-
 - 👋 ሠላም, I’m በአምላክ Tadesse (some know me as Ato Codes or MHCDA). From ኢትዮጵያ Ethiopia Full Stack Web Developer along with some programming languages.
 - 👀 I’m interested in Software Development ፣ Tech Stuffs እና Art.
 - 💞️ I’m happy to collaborating on open-source or personal projects
