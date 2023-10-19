@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software Development ፣ Tech Stuffs እና Art.
 - 💞️ I’m happy to collaborating on open-source or personal projects
 - 📫 You can contact me at [atocodes@gmail.com](atocodes@gmail.com)
-- 👩‍💻👨‍💻 And You Are Very Wellcome to Join Our Programming Language Teaching Telegram Group [@bhk2ltt_mhcda](https://t.me/s/bhk2ltt_mhcda)
+- 👩‍💻👨‍💻 And You Are Very Wellcome to Join Our Programming Language Teaching Telegram Group [እኛ The ሐበሻ Programmers](https://t.me/s/atocodes)
 - 🌐 Here is a bit more about [ስለ እኔ WEBSITE](https://beamlaktadesse01.github.io/my_cv_site/) Check it out.
 
 ### Skills
