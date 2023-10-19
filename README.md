@@ -25,8 +25,8 @@
 
 <a href="https://www.instagram.com/ato.codes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://twitter.com/ato_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://t.me/bhk2ltt_mhcda" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
-<a href="https://www.tiktok.com/@ato.codes?lang=en" target="_blank" rel="noreferrer"><img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" width="32" height="32" /></a>
+<a href="https://t.me/atocodes" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a>
+<a href="https://www.tiktok.com/@atocodes?lang=en" target="_blank" rel="noreferrer"><img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" width="32" height="32" /></a>
 <a href="https://beamlaktadesse01.github.io/my_cv_site/" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/8/Website-Transparent-PNG.png" width="32" height="32" /></a>
 
 </p>
