@@ -5,7 +5,7 @@
 - 👋 ሠላም, I’m በአምላክ Tadesse (some know me as Ato Codes or MHCDA). From ኢትዮጵያ Ethiopia Full Stack Web Developer along with some programming languages.
 - 👀 I’m interested in Software Development ፣ Tech Stuffs እና Art.
 - 💞️ I’m happy to collaborating on open-source or personal projects
-- 📫 You can contact me at [thecmboy930@gmail.com](thecmboy930@gmail.com)
+- 📫 You can contact me at [atocodes@gmail.com](atocodes@gmail.com)
 - 👩‍💻👨‍💻 And You Are Very Wellcome to Join Our Programming Language Teaching Telegram Group [@bhk2ltt_mhcda](https://t.me/s/bhk2ltt_mhcda)
 - 🌐 Here is a bit more about [ስለ እኔ WEBSITE](https://beamlaktadesse01.github.io/my_cv_site/) Check it out.
 
